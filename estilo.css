@@ -1,0 +1,33 @@
+hr{
+    height: 3px;
+    border-top: 10px;
+    color: rgb(38, 113, 222);
+    background-color:rgb(38, 113, 222);
+    margin: 0%;
+    
+}
+
+h1{
+    color:rgb(38, 113, 222) ;
+    background-color: rgb(240, 240, 240);
+    margin: 0%;
+    padding-left: 20px;
+}
+
+.p_h1{
+    color: rgb(100,100,100);
+    padding-left: 20px;
+}
+
+footer{
+    text-align: right;
+}
+
+.item{
+    display: inline-block;
+    text-align: center;
+    width: 200px;
+    background-color: rgb(240, 240, 240);
+    height:150px;
+    vertical-align: middle;
+}

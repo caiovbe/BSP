@@ -1,0 +1,21 @@
+h2{
+    color:rgb(38, 113, 222) ;
+    background-color: rgb(240, 240, 240);
+    padding: 10px 20px 10px 20px;
+    width:fit-content;
+    
+}
+
+.conteudo{
+    color: rgb(100,100,100);
+}
+
+.galeria{
+    background-color: rgb(240, 240, 240);
+    display: block;
+    text-align: center;
+}
+
+.local{
+    width: 300p;
+}
